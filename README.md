@@ -13,6 +13,8 @@ Welcome to the BidSlammer API documentation! This API is designed for developers
 
 For high-volume usage or additional questions, please [contact us](https://bidslammer.com/support).
 
+If you are interested in creating a third-party app that uses API keys, such as a mobile app or browser extension, please [contact us](https://bidslammer.com/support) for details.
+
 ## Table of Contents
 
 - [Overview](#overview)
