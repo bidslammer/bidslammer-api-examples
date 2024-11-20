@@ -5,6 +5,7 @@ Welcome to the BidSlammer API documentation! This API is designed for developers
 ## Overview
 
 - Access: The API requires an API key, which you can find under the Preferences tab (on your BidSlammer.com dashboard) after logging in.
+- Personal Use Only: You may only use the API to manipulate your own personal eBay listings. Sharing API keys is forbidden.
 - Requirements: A [Power Pack upgrade](https://bidslammer.com/pricing) is necessary to use the API.
 - Call Format: The API uses HTTP GET for all calls, including update and delete operations.
 - Important: Ensure you urlencode all values.
