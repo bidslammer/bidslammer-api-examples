@@ -4,7 +4,7 @@ Welcome to the BidSlammer API documentation! This API is designed for developers
 
 ## Overview
 
-- Access: The API requires an API key, which you can find under the Preferences tab after logging in.
+- Access: The API requires an API key, which you can find under the Preferences tab (on your BidSlammer.com dashboard) after logging in.
 - Requirements: A [Power Pack upgrade](https://bidslammer.com/pricing) is necessary to use the API.
 - Call Format: The API uses HTTP GET for all calls, including update and delete operations.
 - Important: Ensure you urlencode all values.
@@ -24,15 +24,6 @@ For high-volume usage or additional questions, please [contact us](https://bidsl
   - [getUserItems](#getuseritems)
   - [importWatchList](#importwatchlist)
   - [getBidHistoryDataset](#getbidhistorydataset)
-
-## Overview
-
-- **Access**: The API requires an API key, which you can find under the Preferences tab after logging in.
-- **Requirements**: A [Power Pack upgrade](https://bidslammer.com/payment) is necessary to use the API.
-- **Call Format**: The API uses HTTP GET for all calls, including update and delete operations.
-- **Important**: Ensure you urlencode all values.
-
-For high-volume usage or additional questions, please [contact us](https://bidslammer.com/support).
 
 ---
 
